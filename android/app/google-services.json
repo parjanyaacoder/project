@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "8634715147",
-    "project_id": "uberclone-3be15",
-    "storage_bucket": "uberclone-3be15.appspot.com"
+    "project_number": "870481770039",
+    "project_id": "servify-825de",
+    "storage_bucket": "servify-825de.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:8634715147:android:c19e6f5b9813b9f0c38b0e",
+        "mobilesdk_app_id": "1:870481770039:android:1c20e717515cc7433371b2",
         "android_client_info": {
-          "package_name": "com.vikramadhitya.window1"
+          "package_name": "com.android.application"
         }
       },
       "oauth_client": [
         {
-          "client_id": "8634715147-tavrfkvi3i7oof6bakcc7fgflnc8ji83.apps.googleusercontent.com",
+          "client_id": "870481770039-jgvlntcrkcjhld9jprm2dmqr6ijk5u9r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAplyWOSjt6-j7lBRO_ZdnJHcd1I-s2KbQ"
+          "current_key": "AIzaSyB1cfuEJoXByLJjTJNOW9ILEuVhzWLTwPQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "8634715147-tavrfkvi3i7oof6bakcc7fgflnc8ji83.apps.googleusercontent.com",
+              "client_id": "870481770039-jgvlntcrkcjhld9jprm2dmqr6ijk5u9r.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

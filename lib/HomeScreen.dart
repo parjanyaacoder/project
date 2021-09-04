@@ -16,7 +16,7 @@ class _homeScreenState extends State<homeScreen> {
       appBar: AppBar(
         title: Text('Welcome to app'),
       ),
-      body: Center(child: Text('Welcome to the app'),),
+      body: Center(child: Text('Welcome to the Home screen app'),),
     );
   }
 }
